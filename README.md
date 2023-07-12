@@ -1,2 +1,1 @@
-# Hello My friends
-**Long time no see**
+* I dont know how to use it
